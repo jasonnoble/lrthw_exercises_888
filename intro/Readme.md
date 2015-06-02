@@ -1,6 +1,6 @@
 > What are the three most essential skills that a beginner programmer needs to know?
 
-They are A, B and C
+They are B, C and D
 
 > Please explain these three skills in your own words.
 
