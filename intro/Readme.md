@@ -4,9 +4,9 @@ They are B, C and D
 
 > Please explain these three skills in your own words.
 
-A is for Apple
 B is for Banana
 C is for Cherry
+D is for Dummy
 
 > Why do you need to not copy and paste?
 
